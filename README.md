@@ -1,4 +1,4 @@
-Experiments repo for PresenceCloudproject
+Experiments repo for PresenceCloud project
 ============================================
 
 Experimentation code for PC stuff. Stay tuned!
