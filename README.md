@@ -1,5 +1,5 @@
-Experiments repo for PresenceCloud project
-============================================
+Node JS Experiments 
+========================
 
 Experimentation code for NodeJS
 
