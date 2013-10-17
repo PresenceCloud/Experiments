@@ -1,8 +1,7 @@
 Experiments repo for PresenceCloud project
 ============================================
 
-Experimentation code for PC stuff.
-Coming Soon!
+Experimentation code for NodeJS
 
 Setup instructions:
 Coming Soon!
