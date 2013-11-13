@@ -1,4 +1,4 @@
- // First Node app - a webserver which sends back Hello World string
+// First Node app - a webserver which sends back Hello World string
 var http = require('http');
 
  // Function callback when an HTTP request comes in

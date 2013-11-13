@@ -1,6 +1,6 @@
- var net = require('net');
+var net = require('net');
 
- var sockets = [];
+var sockets = [];
 
 var s = net.Server(function(socket) {
    sockets.push(socket);
